@@ -1,5 +1,23 @@
 
 <html>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 <body>
 <br>
 <br>
@@ -12,7 +30,17 @@
 <br>
 <br>
 <br>
-<img src="AMDTradingVol.png" style="margin:0px 100px">
+<div class="row">
+  <div class="column">
+    <img src="AMDTradingVol.png" alt="AMD" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="APPLETradingVol.png" alt="Apple" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="CHIPOTLETradingVol.png" alt="Chipotle" style="width:100%">
+  </div>
+</div> 
 </a>
 </body>
 </html>
