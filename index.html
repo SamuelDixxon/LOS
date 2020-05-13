@@ -8,6 +8,10 @@
   <input type="file" name="file">
   <button type="submit" name="submit">UPLOAD</button>
 </form>
+<?php
+if (isset($_POST['submit'])) {
+    $file = $_FILES['file'];
+    $fileName $_FILES['file']['name'];
 </a>
 </body>
 </html>
