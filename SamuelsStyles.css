@@ -7,7 +7,7 @@
 /* Clearfix (clear floats) */
 .row {
   display: flex;
-  background-color: green
+  background-color: green;
 }
 
 body {
