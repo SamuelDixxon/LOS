@@ -68,6 +68,7 @@ header a:hover{
 #showcase{
 	min-height:400px;
 	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat 0px 0px;
+	object-fit: cover;
 	color:#ffffff;
 }
 
