@@ -99,7 +99,9 @@ header a:hover{
 footer{
 	padding:20px;
 	margin-top:20px;
-	color:#ffffff;
 	background-color:#f4f4f4;
+}
+footer p{
+	color:color:#ffffff;
 }
 
