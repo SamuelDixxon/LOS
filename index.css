@@ -36,7 +36,7 @@ header a{
 header li{
 	float:left;
 	display:inline;
-	padding 0 20px 0 20
+	padding 0 20px 0 20px;
 }
 
 header #branding{
