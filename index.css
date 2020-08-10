@@ -52,7 +52,7 @@ header nav{
 	margin-top:10px;
 }
 
-header .hightlight, header .current a{
+header .highlight, header .current a{
 	color:#e8491d;
 	font-weight:bold;
 
