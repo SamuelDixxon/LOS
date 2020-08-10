@@ -67,7 +67,7 @@ header a:hover{
 /* Showcace */
 #showcase{
 	min-height:400px;
-	background:url('../WebsitePictures/ThreeMusketeers.jpg') no-repeat;
+	background:url('WebsitePictures/ThreeMusketeers.jpg') no-repeat;
 	text-align:center;
 	color:#ffffff;
 }
