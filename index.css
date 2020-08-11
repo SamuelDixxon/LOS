@@ -67,7 +67,7 @@ header a:hover{
 /* Showcace */
 #showcase{
 	min-height:400px;
-	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat 100px -50px;
+	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat;
 	color:#ffffff;
 }
 
@@ -99,7 +99,7 @@ header a:hover{
 footer{
 	padding:20px;
 	margin-top:20px;
-	background-color:#f4f4f4;
+	background-color:#35424a;
 }
 footer p{
 	color:color:#ffffff;
