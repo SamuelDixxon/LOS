@@ -100,6 +100,7 @@ footer{
 	padding:20px;
 	margin-top:20px;
 	background-color:#35424a;
+	border-top:#0083ab 3px solid;
 }
 footer p{
 	color:color:#ffffff;
