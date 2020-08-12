@@ -67,7 +67,7 @@ header a:hover{
 /* Showcace */
 #showcase{
 	min-height:500px;
-	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat 0px 25px;
+	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat;
 	color:#ffffff;
 }
 
