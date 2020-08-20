@@ -97,11 +97,22 @@ header a:hover{
 }
 
 footer{
-	padding:20px;
-	margin-top:20px;
-	background-color:#35424a;
-	border-top:#0083ab 3px solid;
+	font: 15px/1.5 Arial, Helvetica, sans-serif;
+	padding-top:16px!important;
+	padding-bottom:16px!important;
+	margin:0;
+	background-color:#f4f4f4;
+	
 }
+
+i {
+    font-style: italic;
+}
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #f1f1f1!important;
+}
+	
 footer p{
 	color:#cccccc;
 }
