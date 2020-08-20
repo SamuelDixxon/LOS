@@ -89,13 +89,13 @@ header a:hover{
 }
 
 #boxes .box{
+	height:30%px;
 	width:30%;
 	float:left;
 	display:inline;
 	border: #0083ab 3px;
 	float:left;
 	display:inline;
-	padding: 0 20px 0 20px;
 	
 }
 
