@@ -93,15 +93,16 @@ header a:hover{
 	width:30%;
 	float:left;
 	display:inline;
-	border: #0083ab 3px;
 	float:left;
 	display:inline;
+	margin:auto;
 	
 }
 
 #boxes .box img{
 	width:90px;
-	border-style: dashed
+	border: #0083ab 3px;
+	border-style: dashed;
 }
 
 #boxes h3{
