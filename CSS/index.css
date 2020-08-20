@@ -69,6 +69,7 @@ header a:hover{
 	min-height:500px;
 	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat;
 	color:#ffffff;
+	border-bottom:#0083ab 3px solid;
 }
 
 #showcase h1{
@@ -82,9 +83,10 @@ header a:hover{
 }
 
 #boxes{
-	height:100px;
+	height:400px;
 	border-top:#0083ab 3px solid;
 	background-color:#35424a;
+	padding: 0px 10px 0px 10px;
 }
 
 #boxes .box{
