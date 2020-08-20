@@ -92,9 +92,7 @@ header a:hover{
 	width:30%;
 	float:left;
 	display:inline;
-	padding: 100px 20px 100px 20px;
 	border: #0083ab 3px;
-	border-style: dotted;
 	float:left;
 	display:inline;
 	padding: 0 20px 0 20px;
@@ -103,12 +101,14 @@ header a:hover{
 
 #boxes .box img{
 	width:90px;
+	border-style: dashed
 }
 
 #boxes h3{
 	text-align:center;
 	color:#ffffff;
 }
+
 .svg-inline--fa {
   vertical-align: -0.200em;
 }
