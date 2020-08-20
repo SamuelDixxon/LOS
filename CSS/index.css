@@ -93,20 +93,23 @@ header a:hover{
 	width:30%;
 	float:left;
 	display:inline;
-	float:left;
 	display:inline;
-	margin:auto;
+	margin-top:20px;
+	text-align:center;
 	
 }
 
 #boxes .box img{
-	width:90px;
+	margin: 0;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
 	border: #0083ab 3px;
 	border-style: dashed;
 }
 
 #boxes h3{
-	text-align:center;
 	color:#ffffff;
 }
 
