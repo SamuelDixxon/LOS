@@ -82,14 +82,15 @@ header a:hover{
 }
 
 #boxes{
-	margin-top:20px;
+	border-top:#0083ab 3px solid;
+	background-color:#f4f4f4;
 }
 
 #boxes .box{
-	float:left;
+	float:center;
 	text-align:center;
-	width:33%;
-	padding:10px;
+	width:30%;
+	padding:10px, color=#ffffff;
 }
 
 #boxes .box img{
