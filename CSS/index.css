@@ -64,7 +64,7 @@ header a:hover{
 
 }
 
-/* Showcace */
+/* Showcase */
 #showcase{
 	min-height:500px;
 	background:url('https://raw.githubusercontent.com/SamuelDixxon/LOS/gh-pages/WebsitePictures/ThreeMusketeers.jpg') no-repeat;
@@ -90,15 +90,19 @@ header a:hover{
 }
 
 #boxes .box{
-	float:center;
-	text-align:center;
 	width:30%;
-	padding:10px, color=#ffffff;
+	padding:10px,
+	border: #0083ab 3px dotted;
+	display: inline-block;
 }
 
 #boxes .box img{
 	width:90px;
 }
+
+#boxes .box h3{
+	text-align:center;
+	color:#ffffff
 
 .svg-inline--fa {
   vertical-align: -0.200em;
