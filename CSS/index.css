@@ -96,16 +96,33 @@ header a:hover{
 	width:90px;
 }
 
-footer{
-	font: 15px/1.5 Arial, Helvetica, sans-serif;
-	padding-top:16px!important;
-	padding-bottom:16px!important;
-	margin:0;
-	background-color:#f4f4f4;
-	
+.social-footer {
+  padding-top:16px!important;
+  padding-bottom:16px!important;
+  background: $dark-gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color:#f4f4f4;
+
+  .social-footer-icons {
+    li:last-of-type {
+      margin-right: 0;
+    }
+
+    .fa {
+      font-size: 1.3rem;
+      color: $white;
+
+      &:hover {
+        color: darken($dark-gray, 25%);
+        transition: color 0.3s ease-in;
+      }
+    }
+  }
 }
+
+
 	
-footer p{
-	color:#cccccc;
-}
+
 
