@@ -90,9 +90,15 @@ header a:hover{
 
 #boxes .box{
 	width:30%;
-	padding:10px,
-	border: #0083ab 3px dotted;
-	display: inline;
+	float:left;
+	display:inline;
+	padding: 100px 20px 100px 20px;
+	border: #0083ab 3px;
+	border-style: dotted;
+	float:left;
+	display:inline;
+	padding: 0 20px 0 20px;
+	
 }
 
 #boxes .box img{
@@ -101,7 +107,7 @@ header a:hover{
 
 #boxes h3{
 	text-align:center;
-	textcolor:#ffffff;
+	color:#ffffff;
 
 .svg-inline--fa {
   vertical-align: -0.200em;
