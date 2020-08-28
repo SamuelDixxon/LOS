@@ -34,7 +34,7 @@ header h1{
 
 .box1 {
 	display: flex;
-  	background-color: #ffffff;
+  	background-color: #FFFFFF;
 }
 
 .box1 h1 {
@@ -52,12 +52,12 @@ header h1{
 
 a.nav-link:link
 {
-   color: #000000;
+   color: #FFFFFF;
    text-decoration: none;
 }
 a.nav-link:visited
 {
-   color: #000000;
+   color: #FFFFFF;
    text-decoration: none;
 }
 a.nav-link:hover
