@@ -41,12 +41,12 @@ header h1{
 	padding-right: 25%;
 }
 
-.column {
+.panel video {
   flex: 25%;
   padding: 5px;
 }
 
-.column h1 {
+.panel h1 {
 	text-align: center;
 }
 
