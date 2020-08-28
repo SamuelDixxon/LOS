@@ -2,7 +2,7 @@ body {
 	font: 15px/1.5 Arial, Helvetica, sans-serif;
 	padding:0;
 	margin:0;
-	background-color:#f4f4f4;
+	background-color:#000000;
 }
 
 .container{
@@ -52,24 +52,20 @@ header h1{
 
 a.nav-link:link
 {
-   color: #fb3f00;
+   color: #000000;
    text-decoration: none;
 }
 a.nav-link:visited
 {
-   color: #fb3f00;
+   color: #000000;
    text-decoration: none;
 }
 a.nav-link:hover
 {
-   color: #fb3f00;
+   color: #000000;
    text-decoration: none;
 }
-a.nav-link:active
-{
-   color: #fb3f00;
-   text-decoration: none;
-}
+
 
 
 
