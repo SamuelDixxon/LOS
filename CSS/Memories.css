@@ -2,7 +2,7 @@ body {
 	font: 15px/1.5 Arial, Helvetica, sans-serif;
 	padding:0;
 	margin:0;
-	background-color:#000000;
+	background-color:#f4f4f4;
 }
 
 .container{
@@ -14,30 +14,41 @@ body {
 header {
 	background:#000000;
 	color:#FFFFFF;
-	padding: 0 20px 0 20px;
+	padding-top:30px;
 	min-height:70px;
 	border-bottom:#FFFFFF 3px solid;
 }
 
 header li{
-	text-align: center;
+	text-align:center;
 	display:inline;
 	padding: 0 20px 0 20px;
 }
 
 header h1{
+	margin-top: 30%;
 	font-size:55px;
+	margin-bottom:30%;
+	text-align:left;
+}
+
+.box1 {
+	display: flex;
+  	background-color: #ffffff;
+}
+
+.box1 h1 {
+	padding-right: 25%;
+}
+
+.column {
+  flex: 25%;
+  padding: 5px;
+}
+
+.column h1 {
 	text-align: center;
 }
 
-.vidbox1 {
-	
-}
 
-h1 .videobox {
-	padding-left:30%;
-}
 
-video .videobox {
-	padding-left:20%;
-}
